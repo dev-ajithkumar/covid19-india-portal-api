@@ -80,7 +80,7 @@ Here are some examples to help you understand how to use the COVID-19 India Port
   ```json
   {
     "username": "john_doe",
-    "password": "password
+    "password": "password",
   }
   ```
 
@@ -111,8 +111,7 @@ Store the `jwtToken` for authentication purposes in subsequent requests.
       "stateId": 2,
       "stateName": "Arunachal Pradesh",
       "population": 1570458
-    },
-    ...
+    }
   ]
   ```
 
